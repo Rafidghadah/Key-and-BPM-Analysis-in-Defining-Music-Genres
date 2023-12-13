@@ -1,10 +1,10 @@
 # Introduction
 Music is a universal language that transcends borders and connects people from all walks of life. While there are countless genres of music, each with its own unique characteristics, the fundamental elements that underlie all songs are the key and BPM (Beats Per Minute). In this article, we will delve into the intriguing world of song genre analysis based on these two essential components.
 
-# The Significance of Key and BPM
-## Key
+## The Significance of Key and BPM
+### Key
 The musical key, also known as the tonal center, represents the central pitch around which a piece of music revolves. It influences the mood and emotional impact of a song. Different keys can evoke distinct feelings in the listener. For example, a song in C might sound bright and uplifting, while a song in E may evoke a more melancholic or introspective mood.
-## BPM (Beats Per Minute)
+### BPM (Beats Per Minute)
 Beats Per Minute, measures the tempo or speed of a song. It determines how fast or slow a track is and has a profound impact on the overall feel and energy of the music. A high BPM, such as 140, is often associated with energetic and fast-paced genres like techno and rock, while a lower BPM, like 60, is common in slower, more contemplative genres like ballads or ambient music.
 
 # Data Analysis Process
